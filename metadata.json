@@ -1,0 +1,6 @@
+{
+  "name": "TAVANA AI Agent Core",
+  "description": "هستهٔ اصلی دستیار هوشمند و عامل خودکار توانا (TAVANA AI Agent Core) - پلتفرم چندعاملی و مدیریت ابزارهای اجرایی با پشتیبانی فارسی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
